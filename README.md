@@ -89,7 +89,7 @@ The main repository of Sylvan is https://github.com/trolando/sylvan.
 
 T. van Dijk (2016) [Sylvan: Multi-core Decision Diagrams](http://dx.doi.org/10.3990/1.9789036541602). PhD Thesis.
 
-T. van Dijk and J.C. van de Pol (2016) [Sylvan: Multi-core Framework for Decision Diagrams](http://dx.doi.org/10.1007/s10009-016-0433-2>).  In: STTT (Special Issue), Springer.
+T. van Dijk and J.C. van de Pol (2016) [Sylvan: Multi-core Framework for Decision Diagrams](http://dx.doi.org/10.1007/s10009-016-0433-2).  In: STTT (Special Issue), Springer.
 
 T. van Dijk and J. van de Pol (2015) [Sylvan: Multi-core Decision Diagrams](http://dx.doi.org/10.1007/978-3-662-46681-0_60). In: TACAS 2015, LNCS 9035. Springer.
 
